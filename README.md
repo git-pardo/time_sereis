@@ -1,2 +1,2 @@
-# time_sers
+# time_series
 time series library
